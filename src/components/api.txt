@@ -1,1 +1,4 @@
 2456e00d09764b37b83ebfcd1bf370e4
+
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
